@@ -33,6 +33,7 @@ I ❤ love:
 <p align="center">
 <a href="https://www.w3schools.com/cpp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"></a>
 <a href="https://qt.io"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="48" height="48"></a>
+<a href="https://cmake.org"><img src="https://raw.githubusercontent.com/luca-schlecker/luca-schlecker/main/cmake-logo.svg" width="48" height="48"></a>
 <a href="https://neovim.io"><img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" width="48" height="48"></a>
 <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48"></a>
 <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"></a>
