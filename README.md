@@ -49,6 +49,7 @@ I ❤ love:
 </h1>
 
 <p align="center">
+<a href="https://www.jetbrains.com/clion"><img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" witdh="48" height="48"></a>
 <a href="https://www.w3schools.com/cs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"></a>
 <a href="https://www.w3schools.com/css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48"></a>
 <a href="https://www.w3schools.com/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48"></a>
