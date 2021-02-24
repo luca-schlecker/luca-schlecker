@@ -32,7 +32,6 @@ I ❤ love:
 
 <p align="center">
 <a href="https://www.w3schools.com/cpp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"></a>
-<a href="https://qt.io"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="48" height="48"></a>
 <a href="https://cmake.org"><img src="https://raw.githubusercontent.com/luca-schlecker/luca-schlecker/main/cmake-logo.svg" width="48" height="48"></a>
 <a href="https://neovim.io"><img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" width="48" height="48"></a>
 <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48"></a>
@@ -49,6 +48,7 @@ I ❤ love:
 </h1>
 
 <p align="center">
+<a href="https://qt.io"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="48" height="48"></a>
 <a href="https://www.jetbrains.com/clion"><img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" witdh="48" height="48"></a>
 <a href="https://www.w3schools.com/cs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"></a>
 <a href="https://www.w3schools.com/css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48"></a>
