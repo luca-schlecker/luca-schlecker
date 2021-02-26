@@ -48,6 +48,7 @@ I ❤ love:
 </h1>
 
 <p align="center">
+<a href="https://www.rust-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48"></a>
 <a href="https://qt.io"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="48" height="48"></a>
 <a href="https://www.jetbrains.com/clion"><img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" witdh="48" height="48"></a>
 <a href="https://www.w3schools.com/cs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"></a>
